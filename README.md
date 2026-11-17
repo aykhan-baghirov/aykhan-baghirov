@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aykhan Baghirov 👋
 
-<!--
-**aykhan-baghirov/aykhan-baghirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th-year Computer Engineering student at ADNSU, studying Java backend development at JET Academy.
+Looking for an internship or junior position in Baku where I can grow as a backend developer.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Java, Python (basic)
+- **Concepts:** OOP
+- **Databases:** SQL (basic)
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- SQL
+- Spring Boot and REST APIs (next)
+
+## Projects
+Coming soon
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/aykhan-baghirov-498a31407/
+- Email: ayxan18bagirov@gmail.com
